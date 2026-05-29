@@ -40,7 +40,7 @@ Key terms of the DUA:
 
 Send the signed DUA and your application information to:
 
-📧 **dmr-bench@example.com** (replace with actual contact email)
+📧 **mazaiying@ruc.edu.cn** 
 
 Subject: `[DMR-Bench DUA] <Your Name> - <Affiliation>`
 
