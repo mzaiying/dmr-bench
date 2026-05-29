@@ -73,7 +73,7 @@ dmr-bench/
 ### 1. Environment Setup
 
 ```bash
-git clone https://github.com/dmr-bench/dmr-bench.git
+git clone https://github.com/mzaiying/dmr-bench.git
 cd dmr-bench
 pip install -r requirements.txt
 ```
@@ -169,7 +169,7 @@ If you use DMR-Bench or CCGP-PriceBench in your research, please cite:
   author  = {马在营 and 杜小勇 and 张峰},
   journal = {软件学报},
   year    = {2026},
-  url     = {https://github.com/dmr-bench/dmr-bench}
+  url     = {https://github.com/mzaiying/dmr-bench}
 }
 ```
 
