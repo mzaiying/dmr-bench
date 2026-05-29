@@ -166,7 +166,7 @@ If you use DMR-Bench or CCGP-PriceBench in your research, please cite:
 ```bibtex
 @article{ma2026dmrbench,
   title   = {DMR-Bench: 面向政务信息化投资审核的大语言模型评测基准},
-  author  = {马再英 and 杜晓勇 and 张峰},
+  author  = {马在营 and 杜晓勇 and 张峰},
   journal = {软件学报},
   year    = {2026},
   url     = {https://github.com/dmr-bench/dmr-bench}
